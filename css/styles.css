@@ -1,0 +1,40 @@
+#admin-box {
+    background-color: rgb(255, 255, 255);
+    padding: 5%;
+    text-align: center;
+    border-radius: 5%;
+    width: 50%;
+    margin: auto;
+}
+#admin-box  img { 
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 75px;
+}
+#admin-box h1 {
+    display: block;
+margin: auto;
+padding: 5%;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+input, label { display: block;}
+input{  
+    padding: 10px;
+    width: 90%;
+    margin: auto;
+    color: rgb(28, 105, 80);
+}
+lebel { 
+}
+.ab{ 
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+input[type=submit] {width: 50%;}
